@@ -1,5 +1,5 @@
 var gamesData = [ {
-	"url": "sdui.box.ttteam.top",
+	"url": "https://sdui.box.ttteam.top/",
 	"imgSrc": "/imgs/sdui.png",
 	"name": "Stable Diffusion",
 	"tags": ["图像处理"],
