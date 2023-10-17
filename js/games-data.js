@@ -1,5 +1,5 @@
 var gamesData = [ {
-	"url": "http://sdui.box.ttteam.top:8001/",
+	"url": "https://dreamsunny-stable-diffusion-webui-cpu.hf.space",
 	"imgSrc": "/imgs/sdui.png",
 	"name": "Stable Diffusion",
 	"tags": ["图像处理"],
